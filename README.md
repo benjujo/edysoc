@@ -40,7 +40,7 @@ Numeración según el orden de presentación en el syllabus.
 
 ## Otras complementarias citadas en el syllabus (no están en Canvas)
 
-- Carvajal Ahumada, G. (2017). El educador necesita ser educado. Sobre Marx y la educación. *Pedagogía y Saberes*, (46)
+- Carvajal Ahumada, G. (2017). El educador necesita ser educado. Sobre Marx y la educación. *Pedagogía y Saberes*, (46) — [carvajal.md](carvajal.md)
 - Parsons, T. (1976). La clase escolar como sistema social: Algunas de sus funciones en la sociedad americana
 - Jofré, G. (1988). El sistema de subvenciones en educación: la experiencia chilena (No. 99). CEP
 - Ávila Francés, M. (2005). Socialización, educación y reproducción cultural: Bourdieu y Bernstein. *RIFOP*, 19(1)
