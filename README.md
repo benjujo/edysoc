@@ -7,8 +7,8 @@ Syllabus: [syllabus.md](syllabus.md).
 ## Bibliografía mínima
 
 - Durkheim, E. *Educación y Sociología*, Cap. I: La educación, su naturaleza y su papel — [durkheim.md](durkheim.md)
-- Friedman, M. & Friedman, R. (1980). *Libertad de elegir: hacia un nuevo liberalismo económico*, Cap. 5: Creados iguales
-- Bellei, C. & Muñoz, G. (2023). Modelos de regulación, políticas educacionales y cambios en el sistema educativo. Un análisis de largo plazo del caso chileno
+- Friedman, M. & Friedman, R. (1980). *Libertad de elegir: hacia un nuevo liberalismo económico*, Cap. 5: Creados iguales — [friedman.md](friedman.md)
+- Bellei, C. & Muñoz, G. (2023). Modelos de regulación, políticas educacionales y cambios en el sistema educativo. Un análisis de largo plazo del caso chileno — [bellei.md](bellei.md)
 - Bourdieu, P. (2001). Las formas del capital. Capital económico, capital cultural y capital social. En *Poder, derecho y clases sociales* (Cap. 4)
 
 ### Sugerida
