@@ -1,16 +1,8 @@
 # Educación y Sociedad (EDU0165) — PFP 2026
 
 Material del curso *Educación y Sociedad*, intersemestre 2026, Programa de Formación Pedagógica UC.
-Profesor: Pablo Barrientos Saavedra. Syllabus: [syllabus.md](syllabus.md).
+Syllabus: [syllabus.md](syllabus.md).
 
-Los archivos originales del curso se sincronizan desde Canvas a `data/` con `sync_canvas.py`. Este índice sigue la organización de los módulos del curso en Canvas y enlaza a las versiones markdown disponibles en este directorio; las lecturas sin link aún no tienen versión markdown.
-
-## Programación y pautas de evaluaciones
-
-- Syllabus Educación y Sociedad, PFP 2026 — [syllabus.md](syllabus.md)
-- Asignación de Textos Bibliografía complementaria — Citas Notables
-- Instructivo Citas Notables 2026
-- Participación en Foro de Discusión
 
 ## Bibliografía mínima
 
